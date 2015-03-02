@@ -6,7 +6,7 @@
 # ***************************************************************************************
 # *************************************************************************************** 
 
-# This script builds the unigram and bigram distrubitions needed to determine the 'information' of reviews
+#This script builds the unigram and bigram distrubitions needed to determine the 'information' of reviews# test
 
 import nltk
 import numpy as np
